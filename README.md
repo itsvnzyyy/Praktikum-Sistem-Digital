@@ -1,6 +1,6 @@
 # Praktikum 8 Logic Gate Tinkercad
 
-## 👥 Anggota Kelompok
+## 👥 Anggota Kelompok 3
 
 * **Alvin Syahrinaldi (H1H025040)** 
 * **Haiza Aydin Saputra (H1H025045)** 
