@@ -117,9 +117,9 @@ Tinkercad merupakan platform simulasi elektronik berbasis web yang dapat digunak
 ---
 
 ## 7. Gerbang XNOR
-* **Prinsip Kerja**: Output akan bernilai 1 jika kedua input (A dan B) memiliki nilai logika yang sama[cite: 119, 245].
-* **Komponen Rangkaian**: Power Supply DC, IC 74HC86, IC 74HC04, LED, Resistor, dan DIP Switch[cite: 248, 249, 250, 251, 252, 253].
-* **Tabel Kebenaran**[cite: 103, 246]:
+* **Prinsip Kerja**: Output akan bernilai 1 jika kedua input (A dan B) memiliki nilai logika yang sama.
+* **Komponen Rangkaian**: Power Supply DC, IC 74HC86, IC 74HC04, LED, Resistor, dan DIP Switch.
+* **Tabel Kebenaran**:
   | A | B | Output |
   |---|---|--------|
   | 0 | 0 | 1      |
