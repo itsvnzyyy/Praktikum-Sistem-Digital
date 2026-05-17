@@ -137,5 +137,6 @@ Tinkercad merupakan platform simulasi elektronik berbasis web yang dapat digunak
 
 Berdasarkan percobaan gerbang logika yang telah dilakukan menggunakan Tinkercad, karakteristik dan prinsip kerja masing-masing gerbang logika terbukti sesuai dengan teori tabel kebenarannya. Secara keseluruhan, simulasi rangkaian ini berhasil membuktikan prinsip kerja dari ketujuh gerbang logika dasar tersebut.
 
+
 ## 🔗 Link Project Tinkercad
 [Project Tinkercad - Logic Gate](https://www.tinkercad.com/things/jmOffzZUeEj-logic-gate-thinkercad)
