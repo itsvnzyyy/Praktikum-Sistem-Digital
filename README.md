@@ -4,13 +4,13 @@
 
 * **Alvin Syahrinaldi (H1H025040)** 
 * **Zakka Ibrahim Izzandra (H1H025046)** 
-* **Nama (NIM)**
+* **Haiza Aydin Saputra (H1H025045)**
 
 ---
 
 # 🚀 Apa itu Tinkercad?
 
-Tinkercad merupakan platform simulasi elektronik berbasis web yang dapat digunakan untuk merancang dan menguji rangkaian digital maupun analog secara virtual. Simulasi ini bertujuan untuk memahami prinsip kerja gerbang logika digital serta cara menghubungkan input dan output pada sebuah rangkaian. Tinkercad dapat digunakan untuk mengimplementasikan berbagai gerbang logika dasar menggunakan IC TTL seri 74HC dengan output berupa LED. Setiap gerbang diuji menggunakan switch (saklar) input dan LED sebagai indikator output. LED akan menyala atau mati sesuai dengan hasil operasi logika dari masing-masing gerbang.
+Tinkercad merupakan platform simulasi elektronik berbasis web yang dapat digunakan untuk merancang dan menguji rangkaian digital maupun analog secara virtual. Simulasi ini bertujuan untuk memahami prinsip kerja gerbang logika digital serta cara menghubungkan input dan output pada sebuah rangkaian. Tinkercad dapat digunakan untuk mengimplementasikan berbagai gerbang logika dasar menggunakan IC TTL seri 74HC dengan output berupa LED. Setiap gerbang diuji menggunakan switch (saklar) sebagai input dan LED sebagai indikator output. LED akan menyala atau mati sesuai dengan hasil operasi logika dari masing-masing gerbang.
 
 ---
 
