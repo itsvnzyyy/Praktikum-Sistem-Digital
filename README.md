@@ -3,7 +3,7 @@
 ## 👥 Anggota Kelompok 3
 
 * **Alvin Syahrinaldi (H1H025040)** 
-* **Nama (NIM)** 
+* **Zakka Ibrahim Izzandra (H1H025046)** 
 * **Nama (NIM)**
 
 ---
